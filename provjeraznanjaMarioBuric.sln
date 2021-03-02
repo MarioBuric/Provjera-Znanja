@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "provjeraznanjaMarioBuric", "provjeraznanjaMarioBuric\provjeraznanjaMarioBuric.csproj", "{6A143CB2-F013-405C-BD87-E425372690C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A143CB2-F013-405C-BD87-E425372690C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A143CB2-F013-405C-BD87-E425372690C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A143CB2-F013-405C-BD87-E425372690C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A143CB2-F013-405C-BD87-E425372690C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D99906F-B665-4886-95F7-466BFF29F510}
+	EndGlobalSection
+EndGlobal
